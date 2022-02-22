@@ -2,6 +2,8 @@
 id: Server-Termination
 title: Server terminations
 description: The explanation behind server terminations
+custom_edit_url: null
+sidebar_position: 2
 ---
 
 ### Why's my server terminated?

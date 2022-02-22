@@ -23,12 +23,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/AuroraHosts/public-docs',
+          editUrl: 'https://github.com/AuroraHosts/public-docs/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/AuroraHosts/public-docs',
+            'https://github.com/AuroraHosts/public-docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,8 +62,8 @@ const config = {
         ],
       },
       prism: {
-        theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        theme: lightCodeTheme,
       },
     }),
 };

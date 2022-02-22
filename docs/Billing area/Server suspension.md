@@ -2,6 +2,8 @@
 id: Suspensions
 title: Server suspensions
 description: The explenation behind server suspensions
+custom_edit_url: null
+sidebar_position: 1
 ---
 
 ### Why's my server suspended?
