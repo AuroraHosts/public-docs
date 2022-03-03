@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'AuroraHosts docs',
   tagline: 'Dinosaurs are cool',
-  url: 'https://docs.aurorahosts.com',
+  url: 'https://condescending-bhaskara-801879.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
