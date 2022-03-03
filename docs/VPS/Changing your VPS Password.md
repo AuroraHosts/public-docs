@@ -1,6 +1,9 @@
 ---
 id: Change-Vps-Password
 title: How to change your VPS password.
+description: Changing your VPS root password.
+sidebar_position: 1
+custom_edit_url: null
 ---
 
 By the end of this guide you'll have sucessfully changed your VPS password.

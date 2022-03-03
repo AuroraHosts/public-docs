@@ -5,9 +5,7 @@ sidebar_position: 2
 custom_edit_url: null
 ---
 
-### Adding a logo to your server.
-
-Adding a logo to your server sounds simple enough but there are some requirements that you may not have been aware of that will determine if your logo will work or not. All those requirements will be outlined below.
+Adding a logo to your server sounds simple enough but there are some requirements that you may not have been aware of that will determine if your logo will be displayed. All those requirements will be outlined below.
 
 The following requirements are needed for your logo to function with your FiveM server.
 
