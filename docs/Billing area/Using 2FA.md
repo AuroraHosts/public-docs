@@ -4,9 +4,9 @@ title: How to activate 2 Factor authentication
 custom_edit_url: null
 ---
 
-When avaiable 2FA (2 Factor authentication) should be used as it adds an additional layer of security for your account. This will help protect your account from unwanted account takeovers.
+When avaiable 2 Factor Authentication (2FA) should be used as it adds an additional layer of security for your account. This will help protect your account from unwanted account takeovers.
 
-Before starting the process ensure you have a 2FA application, downloads for some popular ones can be found below [here](#downloads) - If you don't own a mobile device Authy has an option for Desktop users. The download can be found below.
+Before starting the process ensure you have a 2FA application, downloads for some popular ones can be found below [here](#downloads) - If you don't own a mobile device Authy has an option for Desktop users.
 
 ### Setup process
 

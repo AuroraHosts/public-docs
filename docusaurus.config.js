@@ -16,12 +16,16 @@ const config = {
   organizationName: 'AuroraHosts', // Usually your GitHub org/user name.
   projectName: 'AuroraHosts Documentation', // Usually your repo name.
 
+  scripts: [{src: 'https://plausible.io/js/plausible.js', defer: true, 'data-domain': 'analytics.aurorahosts.net'}],
+
+
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: "/",
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/AuroraHosts/public-docs/',
         },
@@ -55,6 +59,9 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
         ],
+      },
+      colorMode: {
+        defaultMode: "dark",
       },
       prism: {
         darkTheme: darkCodeTheme,
