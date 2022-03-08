@@ -1,6 +1,7 @@
 ---
 id: Connect with your domain
 title: Connecting with a domain.
+sidebar_position: 1
 ---
 
 ### Gathering information

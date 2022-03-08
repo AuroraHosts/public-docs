@@ -15,6 +15,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'AuroraHosts', // Usually your GitHub org/user name.
   projectName: 'AuroraHosts Documentation', // Usually your repo name.
+  
 
   scripts: [{src: 'https://plausible.io/js/plausible.js', defer: true, 'data-domain': 'analytics.aurorahosts.net'}],
 
@@ -26,14 +27,13 @@ const config = {
       ({
         docs: {
           routeBasePath: "/",
+          showLastUpdateTime: true,
+          showLastUpdateAuthor: true,
+          
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/AuroraHosts/public-docs/',
         },
-        blog: {
-          showReadingTime: true,
-          editUrl:
-            'https://github.com/AuroraHosts/public-docs/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -48,16 +48,15 @@ const config = {
         title: 'Aurorahosts docs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.ico',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
       colorMode: {
