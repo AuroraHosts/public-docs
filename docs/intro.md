@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 slug: /
-custom_edit_url: false
+custom_edit_url: null
 ---
 
 # Looking for something?
