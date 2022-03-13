@@ -3,6 +3,7 @@ id: Adding a logo
 title: Adding a logo to your server
 sidebar_position: 2
 custom_edit_url: null
+image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
 ---
 
 Adding a logo to your server sounds simple enough but there are some requirements that you may not have been aware of that will determine if your logo will be displayed. All those requirements will be outlined below.

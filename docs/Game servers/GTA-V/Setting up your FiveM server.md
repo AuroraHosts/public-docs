@@ -4,6 +4,7 @@ title: Setting up your FiveM server
 description: Once you've bought your server and it's been automatically setup, there are still a few things you have to do before you can turn on your server.
 sidebar_position: 1
 custom_edit_url: null
+image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
 ---
 
 ### Generating a license key

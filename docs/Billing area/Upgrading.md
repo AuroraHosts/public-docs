@@ -3,6 +3,7 @@ id: Upgrade or Downgrade your plan
 title: Upgrading or Downgrading your plan
 custom_edit_url: null
 sidebar_position: 6
+image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
 ---
 
 ### How to upgrade/downgrade your plan

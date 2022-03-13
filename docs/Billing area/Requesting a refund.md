@@ -3,6 +3,7 @@ id: Refunds
 title: Requesting a refund
 custom_edit_url: null
 sidebar_position: 7
+image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
 ---
 
 If you're not satisfied with what you bought or didn't mean to purchase the service then you may request a refund assuming your request falls within our guidelines. Our refund policy can be found in our terms of service [here](https://aurorahosts.com/tos.pdf).
@@ -32,5 +33,5 @@ or
 If your request falls into the criteria for eligability you'll receive a response in your ticket and a refund within 12-24 hours.
 
 :::warning
-After a refund has been given your service will be terminated and **all the data** will be deleted. Please back up all data prior to a refund request.
+After a refund has been processed your service will be terminated and **all the data** will be deleted. Please back up all data prior to a refund request.
 :::

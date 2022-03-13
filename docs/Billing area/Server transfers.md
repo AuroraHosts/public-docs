@@ -1,7 +1,7 @@
 ---
 id: Server transfers
 title: Transferring your server.
-description: In this guide you'll be shown the proper way to have your server transfered to another user.
+description: Transfering your server to another user.
 custom_edit_url: null
 sidebar_position: 3
 ---

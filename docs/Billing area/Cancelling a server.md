@@ -3,6 +3,8 @@ id: Cancelling your server
 title: Cancelling your server
 custom_edit_url: null
 sidebar_position: 4
+image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
+
 ---
 
 ### Requesting a server cancellation
@@ -27,6 +29,6 @@ sidebar_position: 4
 
 5. Once you've entered a reason and selected the type click the `Request Cancellation` button and you're done, your request will be processed according to the type of cancellation you picked.
 
-:::note Want to cancel your request?
+:::note Want to void your request?
 If you accidentily placed a cancellation request and need to void it please create a ticket in the [billing area](https://billing.aurorahosts.com)
 :::

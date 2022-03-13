@@ -4,6 +4,7 @@ title: Server terminations
 description: The explanation behind server terminations
 custom_edit_url: null
 sidebar_position: 2
+image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
 ---
 
 ### Why's my server terminated?

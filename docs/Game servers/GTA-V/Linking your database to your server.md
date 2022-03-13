@@ -4,6 +4,7 @@ title: Linking your database to your server
 description: After importing your database you'll now need to connect it to your server, in this guide you'll learn how to.
 sidebar_position: 4
 custom_edit_url: null
+image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
 ---
 
 Some resources and frameworks may require you use a database to store data, in this guide you'll find out how to link your database to your FiveM server.
@@ -51,3 +52,5 @@ set mysql_connection_string "server=bhs-17.aurorahosts.com;database=s1106_Docs;u
 :::warning
 For the `server` portion **do not** include the port (:3306) only include the hostname/ip
 :::
+
+After you've filled in the blanks copy the entire connection string and add it to your server.cfg
