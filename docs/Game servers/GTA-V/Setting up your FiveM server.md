@@ -54,6 +54,4 @@ Once generated copy the key and proceed to step 3.
 
 Now that you've copied the key head over to the game panel, go to the startup tab and place the key under the `STEAM API KEY` variable.
 
-:::note Need help?
-Join our discord, create a ticket 🙂
-:::
+**That's it!**
