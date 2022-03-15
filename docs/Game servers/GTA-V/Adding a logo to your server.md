@@ -19,7 +19,7 @@ If your logo meets all the requirements listed proceed to the next step by click
 
 ### Resizing your logo (Optional)
 
-If the logo you'd like to use isn't already in 96x96 you can easily convert it by using online converters such as [Resizeimage.net](https://online-image-resizer.com/).
+If the logo you'd like to use isn't already 96x96 you can easily resize it by using online converters such as [Resizeimage.net](https://online-image-resizer.com/).
 
 To start, upload your image by clicking `Upload an Image`
 
