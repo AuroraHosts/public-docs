@@ -6,7 +6,7 @@ Welcome! If you're interested in contributing to the docs then you'll want to re
 
 [Formating](#Formating)
 
-[Quick guide to markdown syntax](#Markdown syxtax)
+[Quick guide to markdown syntax](#markdown-syntax)
 
 [Contributing](#Contribute)
 
