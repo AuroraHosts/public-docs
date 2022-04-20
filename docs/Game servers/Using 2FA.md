@@ -1,5 +1,5 @@
 ---
-id: VPS - How to activate 2FA 
+id: Game server - How to activate 2FA 
 title: How to activate 2 Factor authentication
 custom_edit_url: null
 sidebar_position: 2
