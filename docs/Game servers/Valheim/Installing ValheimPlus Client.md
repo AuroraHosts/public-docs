@@ -8,7 +8,6 @@ image: https://aurorahosts.com/img/logo/Primary-logo-blue.svg
 # Requirements
 
 WinRAR or 7zip: [WinRAR Windows download](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe) - [7zip Windows download](https://www.7-zip.org/a/7z2107-x64.exe)
-Valheim
 
 # Downloading ValheimPlus
 
