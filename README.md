@@ -45,7 +45,7 @@ The sidebar position allows us to set the position that the page will be located
 
 The image tag isn't something that should be modified, the image tag allows us to set an embedded image for our URL for example:
 
-![](../../images/embedded.png)
+![](./static/img/Embedded.png)
 
 # Markdown syntax
 
@@ -144,7 +144,7 @@ This is a block of code, what's different about this? With codeblocks you can sp
 ```
 ![This references an image](/path-to-image)
 ```
-![Smart Waterloo](./static/img/Primary-logo-blue.svg)
+![Image referencing](./static/img/Primary-logo-blue.svg)
 
 Simillar to link referncing with image references you just need to add an exclamation mark (!) before the square brackets [] and instead of adding a link within the perentheses you'd add the path to the image.
 
