@@ -2,7 +2,7 @@
 id: Uploading-Files-via-SFTP
 title: Uploading files via SFTP
 custom_edit_url: null
-image: https://aurorahosts.com/img/logo/Primary-logo-blue.svg
+image: https://aurorahosts.com/Primary-logo-blue.svg
 sidebar_position: 3
 ---
 
