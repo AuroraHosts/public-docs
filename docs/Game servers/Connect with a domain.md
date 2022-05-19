@@ -2,7 +2,7 @@
 id: Connect with your domain
 title: Connecting with a domain.
 sidebar_position: 1
-image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
+image: https://aurorahosts.com/Primary-logo-blue.svg
 ---
 
 ### Gathering information

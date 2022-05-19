@@ -3,7 +3,7 @@ id: Game server - How to activate 2FA
 title: How to activate 2 Factor authentication
 custom_edit_url: null
 sidebar_position: 2
-image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
+image: https://aurorahosts.com/Primary-logo-blue.svg
 ---
 
 When avaiable 2FA (2 Factor authentication) should be used as it adds an additional layer of security for your account. This will help protect your account from unwanted account takeovers.

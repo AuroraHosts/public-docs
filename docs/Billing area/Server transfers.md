@@ -4,6 +4,7 @@ title: Transferring your server.
 description: Transfering your server to another user.
 custom_edit_url: null
 sidebar_position: 3
+image: https://aurorahosts.com/Primary-logo-blue.svg
 ---
 
 If you ever need to transfer your server to another person this guide will show you the proper way to start the transfer process.

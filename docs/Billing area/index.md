@@ -2,7 +2,7 @@
 title: Billing
 slug: /
 custom_edit_url: null
-image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
+image: https://aurorahosts.com/Primary-logo-blue.svg
 ---
 
 

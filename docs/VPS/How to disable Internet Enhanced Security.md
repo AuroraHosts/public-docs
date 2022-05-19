@@ -4,7 +4,7 @@ title: How to disable Internet Enhanced Security
 description: Disabling Internet Enhanced Security
 sidebar_position: 2
 custom_edit_url: null
-image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
+image: https://aurorahosts.com/Primary-logo-blue.svg
 ---
 
 When using Internet explorer on your VPS you may encounter an error that says the content you're viewing is blocked by Internet Explorer Enhanced Security Configuration. In this guide you'll be shown how to disable the Enhanced Security Configuration.

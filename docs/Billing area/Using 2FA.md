@@ -3,7 +3,7 @@ id: Billing area - How to activate 2FA
 title: How to activate 2 Factor authentication
 description: How to enable 2 Factor Authentication
 custom_edit_url: null
-image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
+image: https://aurorahosts.com/Primary-logo-blue.svg
 ---
 
 When avaiable 2 Factor Authentication (2FA) should be used as it adds an additional layer of security for your account. This will help protect your account from unwanted account takeovers.

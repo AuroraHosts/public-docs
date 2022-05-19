@@ -4,7 +4,7 @@ title: Cancelling a subsciption
 description: How to cancel your server subscription
 custom_edit_url: null
 sidebar_position: 5
-image: https://aurorahosts.com/img/logo/Aurorahosts2%20resize-02.png
+image: https://aurorahosts.com/Primary-logo-blue.svg
 ---
 
 ### Identifying the type of subscription

@@ -48,7 +48,7 @@ const config = {
         title: 'Aurorahosts docs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/favicon.ico',
+          src: 'img/Aurora_blue.svg',
         },
         items: [
           {
