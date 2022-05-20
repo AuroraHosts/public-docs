@@ -1,7 +1,7 @@
 ---
 id: How to disable Internet Enhanced Security
 title: How to disable Internet Enhanced Security
-description: Disabling Internet Enhanced Security
+description: How to disable Internet Enhanced Security
 sidebar_position: 2
 custom_edit_url: null
 image: https://aurorahosts.com/Primary-logo-blue.svg

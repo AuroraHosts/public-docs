@@ -3,6 +3,7 @@ id: Connect with your domain
 title: Connecting with a domain.
 sidebar_position: 1
 image: https://aurorahosts.com/Primary-logo-blue.svg
+description: How to use a domain to connect to your server.
 ---
 
 ### Gathering information

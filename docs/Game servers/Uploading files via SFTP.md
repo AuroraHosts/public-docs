@@ -4,6 +4,7 @@ title: Uploading files via SFTP
 custom_edit_url: null
 image: https://aurorahosts.com/Primary-logo-blue.svg
 sidebar_position: 3
+description: This guide will show you how to use SFTP to upload data to your server.
 ---
 
 # Requirements

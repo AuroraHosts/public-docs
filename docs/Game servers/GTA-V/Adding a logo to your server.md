@@ -4,6 +4,7 @@ title: Adding a logo to your server
 sidebar_position: 2
 custom_edit_url: null
 image: https://aurorahosts.com/Primary-logo-blue.svg
+description: How to add a logo to your FiveM Server
 ---
 
 Adding a logo to your server sounds simple enough but there are some requirements that you may not have been aware of that will determine if your logo will be displayed. All those requirements will be outlined below.

@@ -3,7 +3,7 @@ id: Installing-ValheimPlus-Client
 title: Installing ValheimPlus (Client sided)
 custom_edit_url: null
 description: How to install the ValheimPlus client
-image: https://aurorahosts.com/img/logo/Primary-logo-blue.svg
+image: https://aurorahosts.com/Primary-logo-blue.svg
 sidebar_position: 1
 ---
 
