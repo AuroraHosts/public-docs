@@ -3,7 +3,7 @@ id: Adding resources
 title: Adding resources to your FiveM server
 sidebar_position: 5
 custom_edit_url: null
-image: https://aurorahosts.com/Primary-logo-blue.svg
+image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
 description: How to add resources to your FiveM server
 ---
 

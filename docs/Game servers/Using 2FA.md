@@ -3,7 +3,7 @@ id: Game server - How to activate 2FA
 title: How to activate 2 Factor authentication
 custom_edit_url: null
 sidebar_position: 2
-image: https://aurorahosts.com/Primary-logo-blue.svg
+image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
 description: How to enable 2 Factor Authentication on your game panel account
 ---
 

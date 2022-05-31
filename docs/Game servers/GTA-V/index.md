@@ -2,7 +2,7 @@
 title: GTA-V
 slug: /GTA-V
 custom_edit_url: null
-image: https://aurorahosts.com/Primary-logo-blue.svg
+image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
 ---
 
 ```mdx-code-block

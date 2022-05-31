@@ -3,7 +3,7 @@ id: Adding a logo
 title: Adding a logo to your server
 sidebar_position: 2
 custom_edit_url: null
-image: https://aurorahosts.com/Primary-logo-blue.svg
+image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
 description: How to add a logo to your FiveM Server
 ---
 
