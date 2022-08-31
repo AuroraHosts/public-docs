@@ -24,6 +24,17 @@ Your server.cfg is located in the main directory of your server (/home/container
 
 ### Connection strings
 
+:::warning
+Some frameworks may require a password without special characters, you can generate a password without special characters by clicking the details button (the eye) and then click `Change password.`
+
+After you've clicked change password button a new box will pop up, make sure the checkbox for include special characters isn't checked.`
+![Change password](../../../images/Game_servers/gta/database/3_changepassword.png)
+:::
+
+```lua
+print("Hello World!")
+```
+
 Connection strings allow the mysql-async resource to establish a connection to your database. In the connection string details such as the database IP, database name, database username and password are included.
 
 A connection string without any data looks like this:

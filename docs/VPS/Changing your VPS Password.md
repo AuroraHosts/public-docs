@@ -2,7 +2,7 @@
 id: Change-Vps-Password
 title: How to change your VPS password.
 description: Changing the root password of your VPS
-sidebar_position: 1
+sidebar_position: 4
 custom_edit_url: null
 image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
 ---
