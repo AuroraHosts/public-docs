@@ -40,32 +40,6 @@ Before you can start using your new VPS you must first set it up and install you
 
 2. From here you can select from a wide range of operating systems to install, if you can't find the one you want to install you can select `Self install` to manually upload the ISO and setup the OS of your choice.
 
-:::warning Windows installation
-**If you chose to install windows you'll need to follow the steps below to finalize your installation**.
-:::
-
----
-
-### Post windows install
-
-1. After you've selected and installed windows you'll be sent to the dashboard, **from here select the VNC button**.
-
-<div class="text--center"><img src={require('../../images/VPS/Setup/5_Windows_VNC.png').default} alt="VNC" height="90%" width="90%"/></div>
-
-#### Setting your password & Final steps
-
-1. The VNC output will open in a seperate window and you'll be shown the following:
-
-<div class="text--center"><img src={require('../../images/VPS/Setup/6_Setting_Password.png').default} alt="VNC_Console" height="90%" width="90%"/></div>
-
-2. Select `OK` and proceed to set the password.
-
-<div class="text--center"><img src={require('../../images/VPS/Setup/7_Password_Set.png').default} alt="Setting password" height="90%" width="90%"/></div>
-
-3. Once your password is set you'll be placed into Windows, before doing anything wait for the Networks popup to show. __**After the popup appears ensure you click `YES`**__.
-
-<div class="text--center"><img src={require('../../images/VPS/Setup/8_Network.png').default} alt="Network" height="90%" width="90%"/></div>
-
 ---
 
 ### Generating an SSH key for Linux installs

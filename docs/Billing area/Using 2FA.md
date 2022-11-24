@@ -4,6 +4,7 @@ title: How to activate 2 Factor authentication
 description: How to enable 2 Factor Authentication
 custom_edit_url: null
 image: https://aurorahosts.com/Primary-logo-blue.svg
+sidebar_position: 8
 ---
 
 When avaiable 2 Factor Authentication (2FA) should be used as it adds an additional layer of security for your account. This will help protect your account from unwanted account takeovers.

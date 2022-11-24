@@ -19,7 +19,7 @@ For the purpose of this guide we'll be using [Termius](https://termius.com/) as 
 
 <div class="text--center"><img src={require('../../images/VPS/Using_SSHKeys/2_Termius_Pref.png').default} alt="Termius preferences" height="50%" width="50%"/></div>
 
-3. Click on the `New key` button then select `Import or paste a key` button:
+3. Click on the `New key` button then select the `Import or paste a key` button:
 
 <div class="text--center"><img src={require('../../images/VPS/Using_SSHKeys/3_New_Key.png').default} alt="Termius adding a key" height="50%" width="50%"/></div>
 
@@ -27,7 +27,7 @@ For the purpose of this guide we'll be using [Termius](https://termius.com/) as 
 
 <div class="text--center"><img src={require('../../images/VPS/Using_SSHKeys/4_Adding_Key.png').default} alt="Termius key added" height="50%" width="50%"/></div>
 
-5. Once you're done click the save button at the top right and you've now added your key.
+5. Once you're done, click the save button at the top right. You've now added your key.
 ---
 
 ### Using the ssh key on your VPS
