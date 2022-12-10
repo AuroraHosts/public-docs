@@ -31,10 +31,6 @@ After you've clicked change password button a new box will pop up, make sure the
 ![Change password](../../../images/Game_servers/gta/database/3_changepassword.png)
 :::
 
-```lua
-print("Hello World!")
-```
-
 Connection strings allow the mysql-async resource to establish a connection to your database. In the connection string details such as the database IP, database name, database username and password are included.
 
 A connection string without any data looks like this:
