@@ -17,7 +17,7 @@ const config = {
   projectName: 'AuroraHosts Documentation', // Usually your repo name.
   
 
-  scripts: [{src: 'https://analytics.aurorahosts.net/js/plausible.js', defer: true, 'data-domain': 'docs.aurorahosts.com'}],
+  scripts: [{src: 'https://analytics.aurorahosts.com/js/plausible.js', defer: true, 'data-domain': 'docs.aurorahosts.com'}],
 
 
   presets: [
