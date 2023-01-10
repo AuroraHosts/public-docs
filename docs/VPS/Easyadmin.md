@@ -92,7 +92,7 @@ If EasyAdmin was added correctly, upon a server restart you should see this in y
 ---
 <center><bold><h3>Thank you for reading</h3></bold></center>
 
-<center>I hope this guide was helpful in assisting you with installing vMenu on your server. If you're interested in finding more information on creating and customizing your FiveM server, be sure to check out the other guides in our knowledgebase.</center>
+<center>I hope this guide was helpful in assisting you with installing EasyAdmin on your server. If you're interested in finding more information on creating and customizing your FiveM server, be sure to check out the other guides in our knowledgebase.</center>
 <br></br>
 <center>Additionally if you're looking for a server provider, look no further Aurorahosts has got you covered with VPS's starting at $3.75 we've got the perfect plan for every server owner.</center> 
 <center><a href="https://aurorahosts.com/vps">Get started today!</a></center>
