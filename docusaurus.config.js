@@ -8,17 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'AuroraHosts docs',
   tagline: 'Dinosaurs are cool',
-  url: 'https://condescending-bhaskara-801879.netlify.app',
+  url: 'https://docs.aurorahosts.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'AuroraHosts', // Usually your GitHub org/user name.
   projectName: 'AuroraHosts Documentation', // Usually your repo name.
-  
-
-  scripts: [{src: 'https://analytics.aurorahosts.com/js/plausible.js', defer: true, 'data-domain': 'docs.aurorahosts.com'}],
-
 
   presets: [
     [
