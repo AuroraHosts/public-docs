@@ -4,7 +4,7 @@ title: How to install vMenu on your server
 description: How to add vMenu to your GTA-V server
 sidebar_position: 6
 custom_edit_url: null
-image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
+image: https://docs.aurorahosts.com/img/EMB/setup_vps.png
 ---
 
 ## What is vMenu?

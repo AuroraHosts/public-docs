@@ -2,7 +2,7 @@
 id: Connect with your domain
 title: Connecting with a domain.
 sidebar_position: 1
-image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
+image: https://docs.aurorahosts.com/img/EMB/connect_domain.png
 description: How to use a domain to connect to your server.
 ---
 

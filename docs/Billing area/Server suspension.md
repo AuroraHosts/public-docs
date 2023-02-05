@@ -4,7 +4,7 @@ title: Server suspensions
 description: The explenation behind server suspensions
 custom_edit_url: null
 sidebar_position: 1
-image: https://aurorahosts.com/Primary-logo-blue.svg
+image: https://aurorahosts.com/img/EMB/server_suspension.png
 ---
 
 ### Why's my server suspended?

@@ -4,7 +4,7 @@ title: Setting up your VPS
 description: How to setup your new VPS.
 sidebar_position: 1
 custom_edit_url: null
-image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
+image: https://docs.aurorahosts.com/img/EMB/setup_vps.png
 ---
 
 Before you can start using your new VPS you must first set it up and install your desired operating system (OS) on the VPS. In this guide you'll be guided through the setup process.

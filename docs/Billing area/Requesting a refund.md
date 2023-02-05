@@ -3,7 +3,7 @@ id: Refunds
 title: Requesting a refund
 custom_edit_url: null
 sidebar_position: 7
-image: https://aurorahosts.com/Primary-logo-blue.svg
+image: https://aurorahosts.com/img/EMB/requesting_refund.png
 ---
 
 If you're not satisfied with what you bought or didn't mean to purchase the service then you may request a refund assuming your request falls within our guidelines. Our refund policy can be found in our terms of service [here](https://aurorahosts.com/tos.pdf).
