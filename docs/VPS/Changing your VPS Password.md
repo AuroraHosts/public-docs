@@ -1,28 +1,39 @@
- ---
+---
 id: Change-Vps-Password
 title: How to change your VPS password.
 description: Changing the root password of your VPS
 sidebar_position: 3
 custom_edit_url: null
-image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
+image: https://docs.aurorahosts.com/img/EMB/Change_Password.png
 ---
 
-By the end of this guide you'll have sucessfully changed your VPS password.
+1. To get started you will have to login to the [VPS panel](https://virt.aurorahosts.com)
 
-### Changing your root password.
+2. Once signed in go select your server
 
-#### Step 1.
-To access the VPS control panel click [here](https://vps.aurorahosts.com)
+![Landing](../../images/VPS/VPS_Password/1_Landing.png)
 
-#### Step 2.
-Once you're signed in you'll see a list of your VPSs, click the little blue arrow.
+3. At the top click `Options`
 
-![VPS landing page](../../images/VPS/VPS_Password/1_landing.png)
+![VPS Control](../../images/VPS/VPS_Password/2_Control.png)
 
-#### Step 3.
-After clicking the blue arrow click settings then Change password. Create a new passowrd and confirm it by clicking Change Password
+4. Scroll down and select `Reset Password` in the Root/Administrator Password section
 
-![VPS page](../../images/VPS/VPS_Password/3_final.png)
+![Options tab](../../images/VPS/VPS_Password/3_Options.png)
 
-:::caution
-After you've sucessfully changed the password **you'll need to restart the VPS for the change to take effect.**
+5. In the pop up you'll see two options after clicking the dropdown `root` and `Administrator`
+
+![Root](../../images/VPS/VPS_Password/4_reset_root.png)
+:::tip Using Linux?
+If you're using a Linux based OS (Debian, Ubuntu, CentOS etc...) select the `root` option.
+:::
+![Root](../../images/VPS/VPS_Password/5_reset_admin.png)
+:::tip Using Windows?
+If you're using Windows select `Administrator`, if you select root the password reset **will fail**
+:::
+
+---
+
+:::info Still need help resetting your password?
+If your VPS password reset is failing please create a ticket in the [billing area](https://billing.aurorahosts.com)
+:::
