@@ -11,7 +11,7 @@ image: https://docs.aurorahosts.com/img/EMB/Change_Password.png
 
 2. Once signed in go select your server
 
-![Landing](../../images/VPS/VPS_Password/1_Landing.png)
+![Landing](../../images/VPS/VPS_Password/1_Landing1.png)
 
 3. At the top click `Options`
 
