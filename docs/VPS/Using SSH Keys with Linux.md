@@ -1,6 +1,6 @@
 ---
 id: SSH Keys on Linux
-title: Using your SSH keys on your Linux VPS.
+title: How to use SSH keys on your Linux VPS.
 description: How to use SSH keys on linux
 sidebar_position: 2
 custom_edit_url: null

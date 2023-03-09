@@ -1,6 +1,6 @@
 ---
 id: GTA-V-vMenu
-title: How to install vMenu on your server
+title: How to add vMenu to your server
 description: How to add vMenu to your GTA-V server
 sidebar_position: 6
 custom_edit_url: null

@@ -1,7 +1,7 @@
 ---
 id: GTA-V-EasyAdmin
 title: How to install Easyadmin
-description: How to install and configure permissions for EasyAdmin
+description: How to add and configure permissions for EasyAdmin
 sidebar_position: 7
 custom_edit_url: null
 image: https://docs.aurorahosts.com/img/EMB/install_ea.png

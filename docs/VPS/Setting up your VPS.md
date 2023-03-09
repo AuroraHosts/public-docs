@@ -1,6 +1,6 @@
 ---
 id: Setting up your VPS
-title: Setting up your VPS
+title: How to setup your VPS
 description: How to setup your new VPS.
 sidebar_position: 1
 custom_edit_url: null
