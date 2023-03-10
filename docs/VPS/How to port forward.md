@@ -38,8 +38,7 @@ In method 2 we'll cover how to port forward by allowing connection to a specific
 
 4. Select either `TCP` or `UDP` depending on the application. In this case we're port forwarding a FiveM server so we'll to create one TCP rule and one UDP rule for port `30120`
 ![Port creation](../../images/VPS/Port_forwarding/8_newport.png)
-
-    In the Action and profile section click next.
+In the Action and profile section click next.
 
 5. Lastly you will need to name this rule, the name can be anything but to keep track of the rules created we're going to name it `FiveM TCP`
 ![Rule name](../../images/VPS/Port_forwarding/9_rulename.png)
