@@ -15,7 +15,7 @@ In method 1 we'll cover how you can port forward by allowing the application thr
 1. Open the control panel and lookup `Firewall` and click on `Allow an app through the Windows Firewall`
 ![Control panel](../../images/VPS/Port_forwarding/1_Controlpanel.png)
 
-2. In the Allowed apps section click on `Allow another app`
+2. In the Allowed apps section click on `Allow another app` 
 ![Allowed apps](../../images/VPS/Port_forwarding/2_Allowedapps.png)
 
 3. Click on `Browse` and find the application you want to port forward, in this example we'll be allowing the FiveM application by adding the `FXServer.exe` application to the allowed list of applications, the `FXServer.exe` application can be found in the directory where your server artifacts are located
