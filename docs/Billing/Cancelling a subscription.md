@@ -1,6 +1,6 @@
 ---
-id: Cancel sub
-title: Cancelling a subsciption
+id: Cancel-subscription
+title: Cancelling a subscription
 description: How to cancel your server subscription
 custom_edit_url: null
 sidebar_position: 5

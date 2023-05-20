@@ -1,6 +1,6 @@
 ---
 id: Uploading-Files-via-SFTP
-title: Uploading files via SFTP
+title: Uploading files viaSFTP
 custom_edit_url: null
 image: http://docs.aurorahosts.com/img/EMB/upload_sftp.png
 sidebar_position: 3
@@ -66,8 +66,6 @@ After you finished uploading the archive you created to your server you'll need 
 ![Unarchiving](../../images/Game_servers/SFTP/Unarchiving.png)
 
 4. Once you've clicked unarchive you should see your data appear within a few minutes.
-
-That's it you're done 🙂
 
 :::info
 **After clicking unarchive it may take a couple minutes to complete, if it's taking longer then expected create a ticket in our [discord](https://discord.gg/XxHx6PxwNn) and we'll help.**

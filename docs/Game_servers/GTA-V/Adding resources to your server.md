@@ -1,5 +1,5 @@
 ---
-id: Adding resources
+id: Adding-resources
 title: Adding resources to your FiveM server
 sidebar_position: 5
 custom_edit_url: null

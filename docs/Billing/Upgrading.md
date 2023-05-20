@@ -1,5 +1,5 @@
 ---
-id: Upgrade or Downgrade your plan
+id: Upgrades-Downgrades
 title: Upgrading or Downgrading your plan
 custom_edit_url: null
 sidebar_position: 6

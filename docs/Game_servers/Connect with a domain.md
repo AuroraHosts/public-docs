@@ -1,5 +1,5 @@
 ---
-id: Connect with your domain
+id: Connect-your-domain
 title: Connecting with a domain.
 sidebar_position: 1
 image: https://docs.aurorahosts.com/img/EMB/connect_domain.png

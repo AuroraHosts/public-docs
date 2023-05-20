@@ -1,5 +1,5 @@
 ---
-id: Setting up your VPS
+id: Setting-up-your-VPS
 title: How to setup your VPS
 description: How to setup your new VPS.
 sidebar_position: 1

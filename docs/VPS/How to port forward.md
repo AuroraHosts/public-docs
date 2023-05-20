@@ -1,5 +1,5 @@
 ---
-id: VPS-Portforwarding
+id: VPS-Port-forwarding
 title: How to port forward on your Windows VPS 
 description: How to port forward applications on your Windows VPS
 sidebar_position: 8

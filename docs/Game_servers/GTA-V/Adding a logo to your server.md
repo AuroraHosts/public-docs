@@ -1,5 +1,5 @@
 ---
-id: Adding a logo
+id: Adding-a-logo
 title: Adding a logo to your server
 sidebar_position: 2
 custom_edit_url: null

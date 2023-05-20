@@ -1,10 +1,8 @@
 ---
-id: Cancelling your server
+id: Cancelling-your-server
 title: Cancelling your server
 custom_edit_url: null
 sidebar_position: 4
-image: https://docs.aurorahosts.com/img/EMB/Cancel_server.png
-
 ---
 
 ### Requesting a server cancellation

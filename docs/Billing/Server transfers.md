@@ -1,5 +1,5 @@
 ---
-id: Server transfers
+id: Server-transfers
 title: Transferring your server.
 description: Transfering your server to another user.
 custom_edit_url: null

@@ -1,41 +1,46 @@
 ---
-id: Game server - How to activate 2FA 
+id: Billing-2FA
 title: How to activate 2 Factor authentication
+description: How to enable 2 Factor Authentication
 custom_edit_url: null
-sidebar_position: 2
-image: http://website-34k.pages.dev/img/logo/Aurorahosts2%20resize-02.png
-description: How to enable 2 Factor Authentication on your game panel account
+image: https://aurorahosts.com/Primary-logo-blue.svg
+sidebar_position: 8
 ---
 
-When avaiable 2FA (2 Factor authentication) should be used as it adds an additional layer of security for your account. This will help protect your account from unwanted account takeovers.
+When avaiable 2 Factor Authentication (2FA) should be used as it adds an additional layer of security for your account. This will help protect your account from unwanted account takeovers.
 
-Before starting the process ensure you have a 2FA application, downloads for some popular ones can be found below [here](#downloads) - If you don't own a mobile device Authy has an option for Desktop users. The download can be found below.
+Before starting the process ensure you have a 2FA application, downloads for some popular ones can be found below [here](#downloads) - If you don't own a mobile device Authy has an option for Desktop users.
 
 ### Setup process
 
-To start the process you'll need to be singed into your [game control panel](https://gp.aurorahosts.com) account. Once signed in you can proceed to the next steps.
+To start the setup process you'll need to sign in to the [billing area](https://billing.aurorahosts.com)
 
-1. Head over to the accounts page by clicking [here](https://gp.aurorahosts.com/account).
+1. Once signed in go to the [security settings](https://billing.aurorahosts.com/index.php/user/security)
 
-2. On the left you'll see **Configure Two factor**, click the `Enable` button.
+2. Click Two-Factor Authenticator then click `Enable`
 
-![2FA](../../images/Game_servers/Enable_2FA/1_2FA.png)
+3. Select `Get started`
 
-3. Use the 2FA app of your choice to scan the QR code presented, alternatively you can manually enter the 2FA code.
+![Getting started](../../images/Billing/Enable_2FA/1_securitypage.png)
 
-4. After scanning or entering the code manually you'll be shown the 6 diget code, enter it into the blank field and click `Setup`
+4. Open your 2FA application of choice and scan the QR code or enter the code manually if you cannot scan the QR code.
+
+5. After scanning or entering the code manually you'll be shown the 6 diget code, enter it into the Authentication code field and click `Submit`
 
 :::info Backup codes
 
 After finishing the setup you'll be shown backup codes, write these down and keep them safe. The backup codes are to be used when you've lost access to the device with the 2 Factor authentication application.
 :::
 
-5. You're done, take a break and relax your account is now a bit more secure
+6. You're done, take a break and relax your account is now a bit more secure.
 
 :::warning Lost access to your backup codes and 2FA?
 
 If you've lost access to the device that you used for 2FA and the backup codes please contact us by creating a ticket in the billing area or emaling us at [support@aurorahosts.com](mailto:support@aurorahosts.com)
 :::
+
+
+
 
 ### Downloads
 

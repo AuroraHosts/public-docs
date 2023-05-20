@@ -1,5 +1,5 @@
 ---
-id: Differences-Unmanaged-Managed
+id: Differences-Unmanaged-vs-Managed
 title: The differences between a managed and unmanaged VPS.
 custom_edit_url: null
 sidebar_position: 10
