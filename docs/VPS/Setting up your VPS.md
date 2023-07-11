@@ -30,15 +30,20 @@ Before you can start using your new VPS you must first set it up and install you
 
 :::info
 **Adding a hostname is optional** and if you don't know what to name your server select `Random name` and it'll generate a random name for your server.
-::::
+:::
 
 #### Installing an OS
 
-1. After selecting your hostname you can select the OS you want to install:
+2. After selecting your hostname you can select the OS you want to install:
 
 <div class="text--center"><img src={require('../../images/VPS/Setup/4_Selecting_OS.png').default} alt="Selecting your OS" height="90%" width="90%"/></div>
 
-2. From here you can select from a wide range of operating systems to install, if you can't find the one you want to install you can select `Self install` to manually upload the ISO and setup the OS of your choice.
+3. From here you can select from a wide range of operating systems to install, if you can't find the one you want to install you can select `Self install` to manually upload the ISO and setup the OS of your choice.
+
+:::tip All done
+You're now done, wait a few minutes and you will receive an email with the details you need to connect to your VPS
+:::
+
 
 ---
 
