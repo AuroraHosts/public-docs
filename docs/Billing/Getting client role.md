@@ -3,6 +3,7 @@ id: Getting-client-role
 title: How to connect your discord account
 custom_edit_url: null
 sidebar_position: 4
+image: https://docs.aurorahosts.com/img/EMB/client_role.png
 ---
 
 In this guide you'll find out how to obtain the client role in our discord by linking your discord account to our billing area.
