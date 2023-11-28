@@ -21,7 +21,7 @@ const config = {
         docs: {
           routeBasePath: "/",
           showLastUpdateTime: true,
-          showLastUpdateAuthor: false,
+          showLastUpdateAuthor: true,
           
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl: 'https://github.com/AuroraHosts/public-docs/',
